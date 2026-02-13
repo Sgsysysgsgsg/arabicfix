@@ -1,0 +1,8 @@
+name: ArabicChatFix
+version: 1.0
+main: com.arabicfix.ArabicChatFixPlugin
+api-version: 1.19
+depend: [floodgate]
+softdepend: [DiscordSRV, ProtocolLib]
+author: YourName
+description: Automatically converts Arabic text for Bedrock players while keeping Java chat normal
