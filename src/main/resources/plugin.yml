@@ -1,0 +1,6 @@
+
+name: ArabicChatFix
+version: 2.0
+main: com.arabicfix.ArabicChatFixPlugin
+api-version: 1.21
+depend: [floodgate]
